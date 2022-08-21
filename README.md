@@ -1,0 +1,1 @@
+In this we gonna learn machine learning from scratch. we will be focusing on Supervised learning
