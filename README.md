@@ -1,7 +1,7 @@
 In this we gonna learn machine learning from scratch. we will be focusing on Supervised learning
 
 #
-machine learning : Algorithms that allow software applications to become more accurate at predicating outcomes without being explicity programming. In short words it uses past data for predictions.
+__machine learning :__ Algorithms that allow software applications to become more accurate at predicating outcomes without being explicity programming. In short words it uses past data for predictions.
 #
 
 |supervisied learning | unsupervised learning | Reinforcement  learning |
