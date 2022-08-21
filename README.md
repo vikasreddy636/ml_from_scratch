@@ -3,3 +3,4 @@ In this we gonna learn machine learning from scratch. we will be focusing on Sup
 |supervisied learning | unsupervised learning | Reinforcement  learning |
 | --- | --- | ---|
 | It used the labeled data to traon the machine learning model | it uses an unlabeled data tro train the model | It uses an agent and a environmrnt to produce actions and rewards |
+| | It used patterns and feature and returs the output | |
